@@ -1,0 +1,9 @@
+Głównym celem projektu było zaprojektowanie i zrealizowanie urządzenia, które będzie
+kontrolowało stan okna. Odpowiedni czujnik będzie kontrolował otwartość okna. Czujnik będzie
+podłączony do procesora. Natomiast procesor za pomocą modułu Wi-Fi będzie przesyłał
+informacje do aplikacji dostępnej na urządzeniach mobilnych. Urządzenie będzie zasilane
+akumulatorami. Do płytki zostanie wlutowany koszyk na akumulatory. Informacja o konieczności
+wymiany akumulatorów na naładowane będzie wyświetlana w aplikacji, razem z powiadomieniami
+o stanie okna. Akumulatory będą ładowane poza układem ładowarką.
+
+Projekt został stworzony z wykorzystaniem aplikacji Blynk, ułatwiającej tworzenie aplikacji mobilnych dla urządzeń IoT.
