@@ -1,0 +1,6 @@
+Celem pracy było zaprojektowanie i wykonanie urządzenia służącego do sterowania dwoma wentylatorami powietrza (nadmuch i wyciąg). 
+Urządzenie zostało wyposażone w mikrokontroler, czujnik temperatury, czujnik czadu, czujnik wilgotności. Do systemu został także 
+podłączony wyświetlacz LCD, na którym będzie można ustawiać poziomy temperatury. O pracy wentylatorów 
+(np. o aktualnie działającym biegu wentylatora) decydują wartości odczytane z czujników.
+
+Projekt został stworzony z wykorzystaniem środowiska Arduino IDE oraz bibliotek autorstwa społeczności i producentów części do obsługi komponentów.
